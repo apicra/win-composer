@@ -1,1 +1,0 @@
-echo "info about software"
