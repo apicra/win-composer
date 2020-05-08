@@ -5,7 +5,7 @@
 setlocal
 
 set URL=https://getcomposer.org/installer
-::set NODEJS_DOWNLOAD_LOCATION=.\
+set FILENAME=composer-setup.php
 set LOG=node-log.txt
 set INSTALLDIR=C:\nodejs\
 
