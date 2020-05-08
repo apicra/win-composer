@@ -1,13 +1,21 @@
-# apicra/win-composer 
-Project created by Apicra, https://github.com/apicra/npm-github-win.git 
+# apicra/win-composer
+Project created by Apicra, https://github.com/apicra/npm-github-win.git
 
-Composer for Windows
-avaliable commmand:
+## doc
 
+[Composer for Windows](https://getcomposer.org/doc/)
 
-    -doc.bat
-    -info.bat
-    -install.bat
-    -remove.bat
-    -start.bat
-    -upgrade.bat
+## List of commands:
+
+    curl.bat
+    doc.bat
+    download.bat
+    info.bat
+    install.bat
+    remove.bat
+    start.bat
+    status.bat
+    test_after.bat
+    test_before.bat
+    upgrade.bat
+
